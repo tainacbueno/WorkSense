@@ -1,0 +1,9 @@
+perfil,period_label,quantidade,diasPeriodo,mediaDiariaRegistros
+Perfil A,Baseline (30 dias),133,30,4.43
+Perfil A,Reanálise (15 dias),67,15,4.47
+Perfil B,Baseline (30 dias),138,30,4.6
+Perfil B,Reanálise (15 dias),62,15,4.13
+Perfil C,Baseline (30 dias),132,30,4.4
+Perfil C,Reanálise (15 dias),68,15,4.53
+Perfil D,Baseline (30 dias),139,30,4.63
+Perfil D,Reanálise (15 dias),61,15,4.07

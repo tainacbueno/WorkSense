@@ -1,0 +1,5 @@
+userId,perfil,date,period,scoreProfissional,evidenceCoverage,warnings,workflowProgressionScore,deadlineScore,qualityScore,workflowStageCoverageScore,deliveryScore,deadlineOnTimeScore,deadlineLateSeverityScore,reworkScore,checklistScore,period_label
+member-perfil-a,Perfil A,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Baseline (30 dias)
+member-perfil-b,Perfil B,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Baseline (30 dias)
+member-perfil-c,Perfil C,,baseline,95.1,1.0,,100.0,87.74,100.0,100.0,100.0,71.43,95.83,100.0,100.0,Baseline (30 dias)
+member-perfil-d,Perfil D,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Baseline (30 dias)
