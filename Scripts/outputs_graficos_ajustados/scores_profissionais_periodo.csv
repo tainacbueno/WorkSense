@@ -3,3 +3,7 @@ member-perfil-a,Perfil A,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.
 member-perfil-b,Perfil B,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Baseline (30 dias)
 member-perfil-c,Perfil C,,baseline,95.1,1.0,,100.0,87.74,100.0,100.0,100.0,71.43,95.83,100.0,100.0,Baseline (30 dias)
 member-perfil-d,Perfil D,,baseline,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Baseline (30 dias)
+member-perfil-a,Perfil A,,reanalise,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Reanálise (15 dias)
+member-perfil-b,Perfil B,,reanalise,100.0,1.0,,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Reanálise (15 dias)
+member-perfil-c,Perfil C,,reanalise,70.47,1.0,2 card(s) vencido(s) permaneceu(ram) aberto(s) no fechamento da janela.,100.0,36.67,88.0,100.0,66.67,25.0,0.0,80.0,100.0,Reanálise (15 dias)
+member-perfil-d,Perfil D,,reanalise,81.93,1.0,1 card(s) vencido(s) permaneceu(ram) aberto(s) no fechamento da janela.,100.0,69.42,83.33,100.0,83.33,60.0,60.42,83.33,83.33,Reanálise (15 dias)
