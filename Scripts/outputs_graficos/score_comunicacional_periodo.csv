@@ -1,0 +1,9 @@
+perfil,period_label,scoreComunicacionalMedio,evidenceCoverageMedia,diasAnalisados,sentimentoMedio,interacaoLinguisticaMedia,diversidadeLexicalMattrScore,semanticaMediaDiagnostica
+Perfil A,Baseline (30 dias),68.66,1.0,20,48.841499999999996,91.29950000000001,100.0,84.36300000000001
+Perfil A,Reanálise (15 dias),68.14,1.0,10,48.69500000000001,90.373,96.84,78.131
+Perfil B,Baseline (30 dias),69.3,1.0,20,47.667,94.0305,100.0,80.6945
+Perfil B,Reanálise (15 dias),64.62,1.0,10,43.95,88.249,99.54999999999998,80.411
+Perfil C,Baseline (30 dias),68.14,1.0,20,48.66000000000001,90.41,100.0,82.032
+Perfil C,Reanálise (15 dias),66.72,1.0,10,47.99,88.11600000000001,90.53999999999999,82.054
+Perfil D,Baseline (30 dias),67.92,1.0,20,47.41199999999999,91.34900000000002,100.0,84.1975
+Perfil D,Reanálise (15 dias),61.92,1.0,10,43.768,82.668,95.72,79.054
