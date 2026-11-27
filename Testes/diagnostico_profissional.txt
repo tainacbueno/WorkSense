@@ -1,0 +1,3 @@
+Profissional: 8/8 scores e componentes reproduzidos; eventos: 718
+baseline: indicadores idênticos após excluir 327 eventos posteriores.
+reanalise: indicadores idênticos após excluir 12 eventos posteriores.

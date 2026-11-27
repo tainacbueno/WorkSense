@@ -1,0 +1,8 @@
+Testes estruturais: OK (LOO, partição, referências disjuntas, lookup e MATTR mínima).
+120/120 scores e componentes anteriores reproduzidos.
+Diagnóstico PARCIAL: apenas LOO palavras/sentenças, MATTR antiga mantida.
+Perfil | Baseline anterior | Baseline LOO | Reanálise (inalterada) | Delta anterior | Delta parcial
+user-001 | 68.6555 | 68.5930 | 68.1440 | -0.5115 | -0.4490
+user-002 | 69.3035 | 69.2845 | 64.6230 | -4.6805 | -4.6615
+user-003 | 68.1430 | 68.1430 | 66.7150 | -1.4280 | -1.4280
+user-004 | 67.9160 | 67.5525 | 61.9210 | -5.9950 | -5.6315
